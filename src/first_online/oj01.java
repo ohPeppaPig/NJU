@@ -9,7 +9,7 @@ public class oj01 {
        while (sc.hasNextInt()){
            int one = sc.nextInt();
            int two = sc.nextInt();
-           System.out.print(one+two);
+           System.out.println(one+two);
 
        }
 
